@@ -7,4 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/nikihdyt/dsa-leetcode/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nikihdyt/dsa-leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nikihdyt/dsa-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
