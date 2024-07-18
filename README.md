@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nikihdyt/dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nikihdyt/dsa-leetcode/tree/master/0007-reverse-integer) |
 ## String
 |  |
@@ -15,4 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikihdyt/dsa-leetcode/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nikihdyt/dsa-leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nikihdyt/dsa-leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
