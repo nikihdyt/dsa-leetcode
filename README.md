@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikihdyt/dsa-leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nikihdyt/dsa-leetcode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/nikihdyt/dsa-leetcode/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikihdyt/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nikihdyt/dsa-leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nikihdyt/dsa-leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/nikihdyt/dsa-leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
